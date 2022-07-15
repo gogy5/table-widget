@@ -1,7 +1,5 @@
 import React, {useEffect, useState} from 'react'
 
-import data from "./DB/tableData";
-
 import Table from "./Table/Table";
 import Filter from "./Filter/Filter";
 import Pagination from "./shared/Pagination/Pagination";
