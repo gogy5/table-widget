@@ -1,0 +1,40 @@
+.filter {
+    border: teal 1px solid;
+    border-radius: 7px;
+    padding: 10px;
+}
+.filter-label {
+    font-size: 14px;
+    color: black;
+}
+.filter-inputs {
+    display: flex;
+    padding: 10px 5px;
+    height: min-content;
+}
+
+.filter-inputs-field{
+    margin: 5px;
+}
+.filter-inputs-select-field {
+    width: 110px;
+}
+.filter-inputs-type {
+    margin: 5px;
+}
+.filter-inputs-select-type {
+    width: 100px;
+}
+.filter-inputs-text {
+    margin: 5px;
+}
+.filter-inputs-label{
+    margin: 5px;
+}
+.filter-buttons {
+    display: flex;
+    align-items: center;
+}
+.filter-buttons > button {
+    margin-right: 5px;
+}

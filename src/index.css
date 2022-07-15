@@ -1,0 +1,11 @@
+/*Materialize*/
+@import "~materialize-css/dist/css/materialize.min.css";
+/*Обнуление стилей*/
+@import "CSS/null.css";
+
+.container {
+    width: 700px;
+    margin: 20px auto;
+}
+
+
